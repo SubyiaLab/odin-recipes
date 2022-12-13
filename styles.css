@@ -1,0 +1,37 @@
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+
+.title ,
+.sub-title ,
+h3 ,
+h1 {
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    color: darkred;
+}
+
+h3.sub-title {
+    color: black;
+    
+}
+
+
+
+img {
+    align-self: center;
+    width: 600px;
+    height: auto;
+
+}
+
+.main-list,
+ul,
+ol {
+    list-style: inside;
+    text-justify: auto;
+}
